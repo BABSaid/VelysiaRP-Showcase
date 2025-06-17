@@ -26,10 +26,10 @@ Voici une liste des modules créés ou en cours de développement :
 
 | Addon / Système     | Capture d’écran |
 |---------------------|------------------|
-| Message Admin       | ![](UI/adminmsg.png) |
-| Menu Animation      | ![](UI/anim.png) |
-| Warn Menu           | ![](UI/velysia_warn.png) |
-| AFK System          | ![](UI/velysia_afk.png) |
+| Message Admin       | ![](adminmsg.png) |
+| Menu Animation      | ![](anim.png) |
+| Warn Menu           | ![](velysia_warn.png) |
+| AFK System          | ![](velysia_afk.png) |
 
 > Les visuels du **HUD** et du **système de logo** seront ajoutés dès qu’ils seront disponibles.
 
