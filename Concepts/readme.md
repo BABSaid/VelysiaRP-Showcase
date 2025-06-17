@@ -1,51 +1,34 @@
-# 🎮 VelysiaRP - Showcase UI & Addons
+# 📐 Dossier : Concepts
 
-Bienvenue sur le dépôt **VelysiaRP-Showcase**, une vitrine du développement personnalisé pour le serveur **Garry's Mod** Semi-FunRP **VelysiaRP**.
+Ce dossier contient tous les éléments de recherche et de réflexion autour du développement du serveur **VelysiaRP**.
 
-Ce dépôt met en avant mes créations (UI et systèmes) via des captures d’écran, maquettes et exemples en jeu.  
-Aucun code n’est partagé ici : il s’agit uniquement d’une **présentation visuelle du travail effectué**.
+Tu y trouveras :
 
----
-
-## 🧩 Addons développés
-
-Voici une liste non exhaustive des modules déjà créés pour **VelysiaRP** :
-
-| Nom de l'addon        | Description |
-|-----------------------|-------------|
-| `velysia_adminmsg`    | Affichage d’un message stylisé pour les annonces administratives |
-| `velysia_anim`        | Menu d’animations accessible aux joueurs pour améliorer l'immersion RP |
-| `velysia_hud`         | HUD customisé avec éléments dynamiques (santé, argent, métier, etc.) |
-| `velysia_logo`        | Affichage automatique d’un logo transparent toutes les 10 minutes |
-| `velysia_warn`        | Système de warn simple avec interface admin claire |
+- 🧠 Des idées de systèmes futurs (UI, gameplay, addons)
+- 🖼️ Des maquettes UI faites sur Photoshop, Figma ou dessinées à la main
+- 📸 Des croquis ou brouillons d'interfaces
+- ✅ Des prototypes non finalisés
+- 📝 Des fichiers `.md` ou `.txt` qui regroupent des notes de réflexion
 
 ---
 
-## 📸 Galerie des interfaces
+## 🎯 Objectif du dossier
 
-*Ajoute ici tes captures d’écrans pour montrer ton travail.*
-
-| Addon / Système     | Capture d’écran |
-|---------------------|------------------|
-| HUD Velysia         | ![](UI/veylsia_warn.png) |
-| Menu Animation      | ![](Anim.png) |
-| Message Admin       | ![](UI/adminmsg.png) |
-| Warn Menu           | ![](UI/veylsia_warn.png) |
-| Logo affiché        | ![](UI/velysia_logo_display.png) |
+> Ce dossier permet de centraliser toutes les **idées en cours**, qu’elles soient visuelles ou écrites.  
+> Il ne contient pas de fichiers définitifs mais sert à poser des bases de développement.
 
 ---
 
-## ✅ Avancement des modules
+## 🗂️ Exemples de contenu que tu peux ajouter ici
 
-| Module                | Statut      |
-|------------------------|-------------|
-| `velysia_adminmsg`     | ✅ Terminé |
-| `velysia_anim`         | ✅ Terminé |
-| `velysia_hud`          | 🔄 En amélioration |
-| `velysia_logo`         | ✅ Terminé |
-| `velysia_warn`         | 🔄 Ajout options |
+- `mockup_telephone_ui.png` : design du téléphone en jeu
+- `todo_addons.txt` : liste d'idées d'addons à faire
+- `recherche_casier_ui.png` : esquisse du système de casier
+- `systeme_legalite_vs_illegalite.md` : balance gameplay factions
 
 ---
 
-## 📁 Organisation du dépôt
+## 📌 Note
+
+Ce contenu n’est **pas définitif** et est là uniquement pour t’aider à structurer ta vision du serveur.
 
