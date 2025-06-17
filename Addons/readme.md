@@ -16,7 +16,6 @@ Ce dossier contient des captures d’écran des **ajouts fonctionnels** en jeu, 
 | Logo sur ATM & Clés      | ![](Atm%20Clef.png)           |
 | Système Police Velysia   | *(à venir)*                   |
 | Cardealer Velysia        | *(à venir)*                   |
-| Système Maison / Porte   | *(à venir)*                   |
 
 ---
 
