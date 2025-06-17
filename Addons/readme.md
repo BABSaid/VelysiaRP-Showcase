@@ -1,15 +1,27 @@
-# 🧩 Dossier : Addons
+# 🧩 Addons — VelysiaRP
 
-Ce dossier contient les **présentations visuelles** des addons développés pour **VelysiaRP**.  
-Chaque addon ici est **fait sur mesure** pour le gameplay Semi-FunRP du serveur.
+Ce dossier contient des captures d’écran des **ajouts fonctionnels** en jeu, spécifiques aux systèmes RP du serveur **VelysiaRP**.
+
+📂 Ici, tu trouveras les visuels liés à :
+- Les éléments placés dans la map (ATM, systèmes de portes, etc.)
+- Les entités interactives (clés, garages, métiers, etc.)
+- Les intégrations RP visuelles avec le logo ou l'identité de VelysiaRP
 
 ---
 
-## ✅ Contenu attendu
+## 📸 Aperçu des Addons
 
-Dans ce dossier, tu peux mettre :
+| Système / Addon         | Capture d’écran               |
+|--------------------------|-------------------------------|
+| Logo sur ATM & Clés      | ![](Atm%20Clef.png)           |
+| Système Police Velysia   | *(à venir)*                   |
+| Cardealer Velysia        | *(à venir)*                   |
+| Système Maison / Porte   | *(à venir)*                   |
 
-- 📸 Des captures d’écran de chaque addon en fonctionnement
-- 🎞️ Des GIFs montrant une animation ou une interaction
-- 📝 Une courte description du fonctionnement de chaque système
-- 🔍 Comparatif entre une version de base (DarkRP) et ta version custom
+---
+
+🛠️ Ce contenu est développé **exclusivement pour le serveur VelysiaRP**.  
+📌 Les fichiers ici sont **des démonstrations visuelles** (aucun code partagé).
+
+> Prochaine mise à jour : ajout des visuels pour Police & Cardealer.
+
