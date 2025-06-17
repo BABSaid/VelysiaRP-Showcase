@@ -29,7 +29,7 @@ Voici une liste non exhaustive des modules déjà créés pour **VelysiaRP** :
 |---------------------|------------------|
 | HUD Velysia         | ![](UI/veylsia_warn.png) |
 | Menu Animation      | ![](UI/Anim.png) |
-| Message Admin       | ![](UI/adminmsg.png) |
+| Message Admin       | ![](adminmsg.png) |
 | Warn Menu           | ![](UI/veylsia_warn.png) |
 | Logo affiché        | ![](UI/velysia_logo_display.png) |
 
