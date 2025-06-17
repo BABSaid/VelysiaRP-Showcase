@@ -1,51 +1,22 @@
-# 🎮 VelysiaRP - Showcase UI & Addons
+# 🧩 Dossier : Addons
 
-Bienvenue sur le dépôt **VelysiaRP-Showcase**, une vitrine du développement personnalisé pour le serveur **Garry's Mod** Semi-FunRP **VelysiaRP**.
-
-Ce dépôt met en avant mes créations (UI et systèmes) via des captures d’écran, maquettes et exemples en jeu.  
-Aucun code n’est partagé ici : il s’agit uniquement d’une **présentation visuelle du travail effectué**.
+Ce dossier contient les **présentations visuelles** des addons développés pour **VelysiaRP**.  
+Chaque addon ici est **fait sur mesure** pour le gameplay Semi-FunRP du serveur.
 
 ---
 
-## 🧩 Addons développés
+## ✅ Contenu attendu
 
-Voici une liste non exhaustive des modules déjà créés pour **VelysiaRP** :
+Dans ce dossier, tu peux mettre :
 
-| Nom de l'addon        | Description |
-|-----------------------|-------------|
-| `velysia_adminmsg`    | Affichage d’un message stylisé pour les annonces administratives |
-| `velysia_anim`        | Menu d’animations accessible aux joueurs pour améliorer l'immersion RP |
-| `velysia_hud`         | HUD customisé avec éléments dynamiques (santé, argent, métier, etc.) |
-| `velysia_logo`        | Affichage automatique d’un logo transparent toutes les 10 minutes |
-| `velysia_warn`        | Système de warn simple avec interface admin claire |
+- 📸 Des captures d’écran de chaque addon en fonctionnement
+- 🎞️ Des GIFs montrant une animation ou une interaction
+- 📝 Une courte description du fonctionnement de chaque système
+- 🔍 Comparatif entre une version de base (DarkRP) et ta version custom
 
 ---
 
-## 📸 Galerie des interfaces
+## 📂 Organisation conseillée
 
-*Ajoute ici tes captures d’écrans pour montrer ton travail.*
-
-| Addon / Système     | Capture d’écran |
-|---------------------|------------------|
-| HUD Velysia         | ![](UI/velysia_hud_preview.png) |
-| Menu Animation      | ![](UI/velysia_anim_menu.png) |
-| Message Admin       | ![](UI/velysia_adminmsg_show.png) |
-| Warn Menu           | ![](UI/velysia_warn_ui.png) |
-| Logo affiché        | ![](UI/velysia_logo_display.png) |
-
----
-
-## ✅ Avancement des modules
-
-| Module                | Statut      |
-|------------------------|-------------|
-| `velysia_adminmsg`     | ✅ Terminé |
-| `velysia_anim`         | ✅ Terminé |
-| `velysia_hud`          | 🔄 En amélioration |
-| `velysia_logo`         | ✅ Terminé |
-| `velysia_warn`         | 🔄 Ajout options |
-
----
-
-## 📁 Organisation du dépôt
+Pour une présentation claire, tu peux faire un sous-dossier par addon :
 
