@@ -28,7 +28,7 @@ Voici une liste des modules créés ou en cours de développement :
 |---------------------|------------------|
 | Message Admin       | ![](adminmsg.png) |
 | Menu Animation      | ![](Anim.png) |
-| Warn Menu           | ![](velysia_warn.png) |
+| Warn Menu           | ![](veylsia_warn.png) |
 | AFK System          | ![](velysia_afk.png) |
 
 > Les visuels du **HUD** et du **système de logo** seront ajoutés dès qu’ils seront disponibles.
