@@ -9,41 +9,42 @@ Aucun code n’est partagé ici : il s’agit uniquement d’une **présentation
 
 ## 🧩 Addons développés
 
-Voici une liste non exhaustive des modules déjà créés pour **VelysiaRP** :
+Voici une liste des modules créés ou en cours de développement :
 
 | Nom de l'addon        | Description |
 |-----------------------|-------------|
 | `velysia_adminmsg`    | Affichage d’un message stylisé pour les annonces administratives |
 | `velysia_anim`        | Menu d’animations accessible aux joueurs pour améliorer l'immersion RP |
-| `velysia_hud`         | HUD customisé avec éléments dynamiques (santé, argent, métier, etc.) |
-| `velysia_logo`        | Affichage automatique d’un logo transparent toutes les 10 minutes |
 | `velysia_warn`        | Système de warn simple avec interface admin claire |
+| `velysia_afk`         | Interface AFK automatique avec retour visuel après inactivité |
+| `velysia_hud`         | **(En cours)** HUD customisé avec éléments dynamiques |
+| `velysia_logo`        | **(En cours)** Affichage automatique d’un logo toutes les 10 minutes |
 
 ---
 
 ## 📸 Galerie des interfaces
 
-*Ajoute ici tes captures d’écrans pour montrer ton travail.*
-
 | Addon / Système     | Capture d’écran |
 |---------------------|------------------|
-| HUD Velysia         | ![](veylsia_warn.png) |
-| Menu Animation      | ![](Anim.png) |
-| Message Admin       | ![](adminmsg.png) |
-| Warn Menu           | ![](veylsia_warn.png) |
-| Logo affiché        | ![](velysia_logo_display.png) |
+| Message Admin       | ![](UI/adminmsg.png) |
+| Menu Animation      | ![](UI/anim.png) |
+| Warn Menu           | ![](UI/velysia_warn.png) |
+| AFK System          | ![](UI/velysia_afk.png) |
+
+> Les visuels du **HUD** et du **système de logo** seront ajoutés dès qu’ils seront disponibles.
 
 ---
 
 ## ✅ Avancement des modules
 
-| Module                | Statut      |
-|------------------------|-------------|
-| `velysia_adminmsg`     | ✅ Terminé |
-| `velysia_anim`         | ✅ Terminé |
-| `velysia_hud`          | 🔄 En amélioration |
-| `velysia_logo`         | ✅ Terminé |
-| `velysia_warn`         | 🔄 Ajout options |
+| Module                | Statut          |
+|------------------------|-----------------|
+| `velysia_adminmsg`     | ✅ Terminé       |
+| `velysia_anim`         | ✅ Terminé       |
+| `velysia_warn`         | ✅ Terminé       |
+| `velysia_afk`          | ✅ Terminé       |
+| `velysia_hud`          | 🚧 En développement |
+| `velysia_logo`         | 🚧 En développement |
 
 ---
 
