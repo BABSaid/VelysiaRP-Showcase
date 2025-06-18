@@ -1,52 +1,35 @@
-# 🎮 VelysiaRP - Showcase UI & Addons
+# 🎨 Interfaces Utilisateur (UI) — VelysiaRP
 
-Bienvenue sur le dépôt **VelysiaRP-Showcase**, une vitrine du développement personnalisé pour le serveur **Garry's Mod** Semi-FunRP **VelysiaRP**.
-
-Ce dépôt met en avant mes créations (UI et systèmes) via des captures d’écran, maquettes et exemples en jeu.  
-Aucun code n’est partagé ici : il s’agit uniquement d’une **présentation visuelle du travail effectué**.
+Ce dossier regroupe l’ensemble des interfaces personnalisées développées pour **VelysiaRP**.  
+Chaque UI est pensée pour être claire, immersive et adaptée au gameplay RP du serveur.
 
 ---
 
-## 🧩 Addons développés
+## 🚗 Système Velysia_Cardealer
 
-Voici une liste des modules créés ou en cours de développement :
-
-| Nom de l'addon        | Description |
-|-----------------------|-------------|
-| `velysia_adminmsg`    | Affichage d’un message stylisé pour les annonces administratives |
-| `velysia_anim`        | Menu d’animations accessible aux joueurs pour améliorer l'immersion RP |
-| `velysia_warn`        | Système de warn simple avec interface admin claire |
-| `velysia_afk`         | Interface AFK automatique avec retour visuel après inactivité |
-| `velysia_hud`         | **(En cours)** HUD customisé avec éléments dynamiques |
-| `velysia_logo`        | **(En cours)** Affichage automatique d’un logo toutes les 10 minutes |
+| Interface                             | Capture d’écran                         |
+|---------------------------------------|------------------------------------------|
+| Menu Principal (Achat / Vente / Garage / Custom) | ![](velysia_cardealer.png)         |
+| Menu de configuration du Cardealer   | ![](velysia_configcardealer.png)        |
+| Menu Acheteur de voiture volée       | ![](velysia_voler.png)                  |
+| Menu Config Acheteur de voiture volée| ![](velysia_configvoler.png)            |
+| Menu **/rcd**                         | ![](velysia_rcd.png)                    |
 
 ---
 
-## 📸 Galerie des interfaces
+## 🛠️ Autres interfaces disponibles
 
-| Addon / Système     | Capture d’écran |
-|---------------------|------------------|
-| Message Admin       | ![](adminmsg.png) |
-| Menu Animation      | ![](Anim.png) |
-| Warn Menu           | ![](veylsia_warn.png) |
-| AFK System          | ![](velysia_afk.png) |
-
-> Les visuels du **HUD** et du **système de logo** seront ajoutés dès qu’ils seront disponibles.
+| Interface                   | Capture d’écran               |
+|----------------------------|-------------------------------|
+| Menu Message Admin         | ![](adminmsg.png)             |
+| Menu Animation             | ![](anim.png)                 |
+| Menu Warn                  | ![](velysia_warn.png)         |
+| Système AFK                | ![](velysia_afk.png)          |
 
 ---
 
-## ✅ Avancement des modules
+📌 **Note :**
+- Les interfaces HUD et le système de Logo sont **en développement** et non encore disponibles publiquement.
+- Toutes les UI présentes ici sont **en production** sur le serveur `VelysiaRP`.
 
-| Module                | Statut          |
-|------------------------|-----------------|
-| `velysia_adminmsg`     | ✅ Terminé       |
-| `velysia_anim`         | ✅ Terminé       |
-| `velysia_warn`         | ✅ Terminé       |
-| `velysia_afk`          | ✅ Terminé       |
-| `velysia_hud`          | 🚧 En développement |
-| `velysia_logo`         | 🚧 En développement |
-
----
-
-## 📁 Organisation du dépôt
-
+> 📂 Ce dossier contient uniquement des **visuels de démonstration**. Aucun fichier LUA ou script partagé publiquement.
