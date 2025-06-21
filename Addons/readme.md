@@ -11,12 +11,12 @@ Ce dossier contient des captures d’écran des **ajouts fonctionnels** en jeu, 
 
 ## 📸 Aperçu des Addons
 
-| Système / Addon         | Capture d’écran               |
+| Système / Addon          | Capture d’écran               |
 |--------------------------|-------------------------------|
 | Logo sur ATM & Clés      | ![](Atm%20Clef.png)           |
 | HUD VelysiaRP *(WIP)*    | ![](../UI/velysia_hud.png)    |
 | Système Police Velysia   | *(à venir)*                   |
-| Cardealer Velysia        | *(voir UI)*                   |
+| Cardealer Velysia        | ![](../UI/velysia_hud.png)    |
 | Système Maison / Porte   | *(à venir)*                   |
 
 ---
