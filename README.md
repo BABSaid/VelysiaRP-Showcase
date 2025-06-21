@@ -27,7 +27,7 @@ Voici une liste non exhaustive des modules déjà créés pour **VelysiaRP** :
 
 | Addon / Système     | Capture d’écran |
 |---------------------|------------------|
-| HUD Velysia         | ![](UI/veylsia_hud.png) |
+| HUD Velysia         | ![](UI/velysia_hud.png) |
 | Menu Animation      | ![](UI/Anim.png) |
 | Message Admin       | ![](UI/adminmsg.png) |
 | Warn Menu           | ![](UI/veylsia_warn.png) |
